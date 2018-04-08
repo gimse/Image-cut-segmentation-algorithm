@@ -11,7 +11,7 @@ im=im2double(im);
 [m0,n0]=size(im);
 scaling=hight/m0;
 
-%Smoothing and resizing
+%Smoothing and resizing 
 h=fspecial('average',1);
 im2=imfilter(im,h,'replicate');
 im2=imresize(im2,scaling);
