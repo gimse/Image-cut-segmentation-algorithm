@@ -4,7 +4,7 @@ Seperating a image into two parts.
 
 
 
-## Result
+## Screencapture
 
 ![alt text](https://github.com/gimse/ImageCutSegmentationAlgorithm/blob/master/grass_with_line_result.png)
 
