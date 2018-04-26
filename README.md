@@ -1,6 +1,6 @@
 ﻿# Image cut segmentation algorithm
 
-Seperating a image into two parts, bu using ncut algorithm. The algorithm is stated in this [www.imageprocessingplace.com]book. 
+Seperating a image into two parts, bu using ncut algorithm. The algorithm is stated in this ![www.imageprocessingplace.com]book. 
 
 
 
